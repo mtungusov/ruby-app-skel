@@ -1,5 +1,11 @@
 # Ruby App Skeleton
 
+## Install Gems
+
+```
+bundle install
+```
+
 ## Init Guard
 
 ```
